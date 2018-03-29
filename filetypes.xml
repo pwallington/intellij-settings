@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="req" type="JSON" />
       <mapping pattern=".json" type="JSON" />
+      <mapping pattern="account_list" type="PLAIN_TEXT" />
       <mapping pattern="example_code_req_json" type="PLAIN_TEXT" />
       <mapping ext="pth" type="PLAIN_TEXT" />
     </extensionMap>
