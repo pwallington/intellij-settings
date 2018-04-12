@@ -30,6 +30,10 @@
           <option name="url" value="http://github.apexclearing.local" />
           <option name="userName" value="pwallington" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.apexclearing.local/apex-public/api-documentation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
