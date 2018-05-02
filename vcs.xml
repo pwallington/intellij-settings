@@ -22,6 +22,10 @@
           <option name="url" value="http://github.apexclearing.local/pwallington/api-documentation" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.apexclearing.local/acscd/log-events.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\pwallington\PycharmProjects" />
