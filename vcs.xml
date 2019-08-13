@@ -58,6 +58,10 @@
           <option name="url" value="http://github.apexclearing.local/apex-public/fractional-trading.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.apexclearing.local/pwallington/TechIntTest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\pwallington\PycharmProjects" />
