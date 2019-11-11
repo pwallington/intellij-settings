@@ -70,6 +70,10 @@
           <option name="url" value="https://github.apexclearing.local/jhershberger/Daily_AML_Review.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.apexclearing.local/acscd/sentinelV2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\pwallington\PycharmProjects" />
